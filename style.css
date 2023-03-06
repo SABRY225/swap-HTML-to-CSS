@@ -1,0 +1,46 @@
+/* Log In */
+*{
+    text-decoration: none;
+    
+}
+body{
+    background-image: url(ripped-paper-green-background-colorful-handmade-craft.jpg);
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+Form{
+    text-align: center;
+    width: 360px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(240, 248, 255, 0.247);
+    border-radius: 50px;
+
+}
+.from{
+    margin-left: 21.5%;
+    margin-top: 5%;
+}
+.inpCall{
+    width: 200px;
+    height: 22px;
+    border-radius: 20px;
+    background-color: rgba(240, 248, 255, 0.418);
+
+}
+.linkSubmit{
+    width: 90px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.linKAccount{
+    font-size: 20px;
+    color: #000;
+}
+/* Create Account */
